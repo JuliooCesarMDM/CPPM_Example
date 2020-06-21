@@ -7,7 +7,7 @@
 /********************************************************************/
 
 //EXEMPLO SIMPLES PARA LEITURA DE ATÉ 8 CANAIS PPM
-//UM EXEMPLO MELHOR PODE SER OBTIDO NO MEU GITHUB: https://github.com/JuliooCesarMDM?tab=repositories
+//UM EXEMPLO MELHOR PODE SER OBTIDO NO MEU GITHUB: https://github.com/JuliooCesarMDM/New_CPPM_Example
 
 void setup() {
   Serial.begin(115200);
